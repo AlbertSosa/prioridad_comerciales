@@ -6,6 +6,12 @@ from urllib.request import urlopen
 import time
 import webbrowser
 
+"""
+TODO 
+algoritmo de prioridades
+conexion con la BD
+proyectar comercial
+"""
 
 list1=[
     (1,"telcel", "https://www.youtube.com/watch?v=99gVx3Nd8vc", 6), 
